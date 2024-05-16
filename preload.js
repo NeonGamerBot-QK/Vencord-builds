@@ -1,4 +1,4 @@
-// Vencord c29ab80
+// Vencord b481619
 // Standalone: true
 // Platform: Universal
 // Updater disabled: false
