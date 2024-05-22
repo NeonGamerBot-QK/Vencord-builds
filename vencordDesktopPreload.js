@@ -1,4 +1,4 @@
-// Vencord 0514242
+// Vencord 021a2f6
 // Standalone: true
 // Platform: Universal
 // Updater disabled: false
