@@ -1,4 +1,4 @@
-// Vencord f417dbe
+// Vencord cd9c89a
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
