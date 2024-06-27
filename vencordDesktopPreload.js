@@ -1,4 +1,4 @@
-// Vencord 744cee5
+// Vencord 2d237da
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
